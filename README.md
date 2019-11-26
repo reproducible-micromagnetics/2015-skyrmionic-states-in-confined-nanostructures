@@ -1,4 +1,4 @@
-# Stable and manipulable Bloch point
+# Ground state search, hysteretic behaviour and reversal mechanism of skyrmionic textures in confined helimagnetic nanostructures
 Marijan Beg<sup>1,2</sup> and Hans Fangohr<sup>1,2</sup>
 
 <sup>1</sup> *European XFEL GmbH, Holzkoppel 4, 22869 Schenefeld, Germany*  
@@ -6,16 +6,16 @@ Marijan Beg<sup>1,2</sup> and Hans Fangohr<sup>1,2</sup>
 
 | Description | Badge |
 | --- | --- |
-| Binder | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/reproducible-micromagnetics/2019-stable-and-manipulable-bloch-point/master?filepath=index.ipynb) |
+| Binder | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/reproducible-micromagnetics/2015-skyrmionic-states-in-confined-nanostructures/master?filepath=index.ipynb) |
 | License | [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) |
 
 ## About
 
-This repository provides Ubermag simulation code necessary to reproduce results from [Beg *et al.* Stable and manipulable Bloch point. *Scientific Reports*, **9**, 7959 (2019)](https://doi.org/10.1038/s41598-019-44462-2). All notebooks hosted in this repository can be run in the cloud and the results reproduced by anybody
+This repository provides Ubermag simulation code necessary to reproduce results from [Beg *et al.* Ground state search, hysteretic behaviour and reversal mechanism of skyrmionic textures in confined helimagnetic nanostructures. *Scientific Reports*, **5**, 17137 (2019)](https://www.nature.com/articles/srep17137). All notebooks hosted in this repository can be run in the cloud and the results reproduced by anybody
 
 ## Binder
 
-Jupyter notebooks hosted in this repository can be used in the cloud via Binder. This does not require you to have anything installed and no files will be created on your machine. To access Binder, use this [link](https://mybinder.org/v2/gh/reproducible-micromagnetics/2019-stable-and-manipulable-bloch-point/master?filepath=index.ipynb).
+Jupyter notebooks hosted in this repository can be used in the cloud via Binder. This does not require you to have anything installed and no files will be created on your machine. To access Binder, use this [link](https://mybinder.org/v2/gh/reproducible-micromagnetics/2015-skyrmionic-states-in-confined-nanostructures/master?filepath=index.ipynb).
 
 ## Support
 
@@ -29,9 +29,7 @@ Licensed under the BSD 3-Clause "New" or "Revised" License. For details, please 
 
 Please cite it as:
 
-1. M. Beg *et al.* Stable and manipulable Bloch point. [*Scientific Reports* **9**, 7959 (2019)](https://www.nature.com/articles/s41598-019-44462-2).
-
-2. M. Beg, *et al.* GitHub repository: Stable and manipulable Bloch point. (Version 1.0.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.2938933 (2019).
+1. [Beg *et al.* Ground state search, hysteretic behaviour and reversal mechanism of skyrmionic textures in confined helimagnetic nanostructures. *Scientific Reports*, **5**, 17137 (2019)](https://www.nature.com/articles/srep17137)
 
 ## Acknowledgements
 
