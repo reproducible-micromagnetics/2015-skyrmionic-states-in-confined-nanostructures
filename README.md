@@ -27,10 +27,10 @@ Licensed under the BSD 3-Clause "New" or "Revised" License. For details, please 
 
 ## How to cite
 
-Please cite it as:
+Please cite paper it as:
 
 1. [Beg *et al.* Ground state search, hysteretic behaviour and reversal mechanism of skyrmionic textures in confined helimagnetic nanostructures. *Scientific Reports*, **5**, 17137 (2015)](https://www.nature.com/articles/srep17137)
 
 ## Acknowledgements
 
-Developed as a part of [OpenDreamKit](http://opendreamkit.org/) – Horizon 2020 European Research Infrastructure project (676541). Add another grants here if necessary.
+Developed as a part of [OpenDreamKit](http://opendreamkit.org/) – Horizon 2020 European Research Infrastructure project (676541). 
