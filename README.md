@@ -11,7 +11,7 @@ Marijan Beg<sup>1,2</sup> and Hans Fangohr<sup>1,2</sup>
 
 ## About
 
-This repository provides Ubermag simulation code necessary to reproduce results from [Beg *et al.* Ground state search, hysteretic behaviour and reversal mechanism of skyrmionic textures in confined helimagnetic nanostructures. *Scientific Reports*, **5**, 17137 (2019)](https://www.nature.com/articles/srep17137). All notebooks hosted in this repository can be run in the cloud and the results reproduced by anybody
+This repository provides Ubermag simulation code necessary to reproduce results from [Beg *et al.* Ground state search, hysteretic behaviour and reversal mechanism of skyrmionic textures in confined helimagnetic nanostructures. *Scientific Reports*, **5**, 17137 (2015)](https://www.nature.com/articles/srep17137). All notebooks hosted in this repository can be run in the cloud and the results reproduced by anybody
 
 ## Binder
 
