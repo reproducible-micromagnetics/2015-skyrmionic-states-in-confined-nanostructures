@@ -29,7 +29,7 @@ Licensed under the BSD 3-Clause "New" or "Revised" License. For details, please 
 
 Please cite it as:
 
-1. [Beg *et al.* Ground state search, hysteretic behaviour and reversal mechanism of skyrmionic textures in confined helimagnetic nanostructures. *Scientific Reports*, **5**, 17137 (2019)](https://www.nature.com/articles/srep17137)
+1. [Beg *et al.* Ground state search, hysteretic behaviour and reversal mechanism of skyrmionic textures in confined helimagnetic nanostructures. *Scientific Reports*, **5**, 17137 (2015)](https://www.nature.com/articles/srep17137)
 
 ## Acknowledgements
 
