@@ -15,11 +15,11 @@ Magnetic skyrmions have the potential to provide solutions for low-power, high-d
 
 ## About this repository
 
-This repository provides Ubermag simulation code necessary to reproduce results from [Beg *et al.* Ground state search, hysteretic behaviour and reversal mechanism of skyrmionic textures in confined helimagnetic nanostructures. *Scientific Reports*, **5**, 17137 (2015)](https://www.nature.com/articles/srep17137). All notebooks hosted in this repository can be run in the cloud and the results reproduced by anybody
+This repository provides Ubermag simulation code to reproduce results from [Beg *et al.* Ground state search, hysteretic behaviour and reversal mechanism of skyrmionic textures in confined helimagnetic nanostructures. *Scientific Reports*, **5**, 17137 (2015)](https://www.nature.com/articles/srep17137). All notebooks hosted in this repository can be run in the cloud (see next section on Binder), and thus the results reproduced by anybody.
 
 ## Binder
 
-Jupyter notebooks hosted in this repository can be used in the cloud via Binder. This does not require you to have anything installed and no files will be created on your machine. To access Binder, use this [link](https://mybinder.org/v2/gh/reproducible-micromagnetics/2015-skyrmionic-states-in-confined-nanostructures/master?filepath=index.ipynb).
+Jupyter notebooks hosted in this repository can be used in the cloud via Binder. This does not require you to have anything installed and no files will be created on your machine. To access Binder, use this [link](https://mybinder.org/v2/gh/reproducible-micromagnetics/2015-skyrmionic-states-in-confined-nanostructures/master?filepath=index.ipynb). Different browsers may give different results: Chrome and Firefox are worth trying. 
 
 ## Support
 
@@ -31,7 +31,7 @@ Licensed under the BSD 3-Clause "New" or "Revised" License. For details, please 
 
 ## How to cite
 
-Please cite paper it as:
+Please cite paper as:
 
 1. [Beg *et al.* Ground state search, hysteretic behaviour and reversal mechanism of skyrmionic textures in confined helimagnetic nanostructures. *Scientific Reports*, **5**, 17137 (2015)](https://www.nature.com/articles/srep17137)
 
