@@ -49,9 +49,11 @@ The production of figure 2 required to run many simulations, starting from diffe
 
 The following notebook demonstrates how this calculation can be done for 2 points in the phase plane.
 
-- [View the notebook statically: figure-02-ground-state.ipynb (nbviewer rendering)](https://nbviewer.jupyter.org/github/reproducible-micromagnetics/2015-skyrmionic-states-in-confined-nanostructures/blob/master/figure-02-ground-state.ipynb)
+- [figure-02-ground-state.ipynb (nbviewer rendering)](https://nbviewer.jupyter.org/github/reproducible-micromagnetics/2015-skyrmionic-states-in-confined-nanostructures/blob/master/figure-02-ground-state.ipynb)
   ([github rendering](figure-02-ground-state.ipynb))
-- [Interactively execute the notebook using Binder](https://mybinder.org/v2/gh/reproducible-micromagnetics/2015-skyrmionic-states-in-confined-nanostructures/master?filepath=figure-02-ground-state.ipynb)
+- [figure-02-ground-state-more-details.ipynb, includes meta-stable states,(nbviewer rendering)](https://nbviewer.jupyter.org/github/reproducible-micromagnetics/2015-skyrmionic-states-in-confined-nanostructures/blob/master/figure-02-ground-state-more-details.ipynb)
+([github rendering](figure-02-ground-state-more-details.ipynb))
+- [Interactively execute the notebooks using Binder](https://mybinder.org/v2/gh/reproducible-micromagnetics/2015-skyrmionic-states-in-confined-nanostructures/master?filepath=index.ipynb)
 
 ## License
 
