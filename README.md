@@ -14,7 +14,7 @@ Stamps<sup>2</sup>, and Hans Fangohr<sup>1</sup>
 | Binder      | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/reproducible-micromagnetics/2015-skyrmionic-states-in-confined-nanostructures/master?filepath=index.ipynb) |
 | License     | [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)                                                              |
 
-## Abstract
+## Abstract (of the publication)
 
 Magnetic skyrmions have the potential to provide solutions for low-power,
 high-density data storage and processing. One of the major challenges in
@@ -41,19 +41,16 @@ Reports*, **5**, 17137 (2015)](https://www.nature.com/articles/srep17137). All
 notebooks hosted in this repository can be run in the cloud (see next section on
 Binder), and thus the results reproduced by anybody.
 
-## Binder
+## Reproducibility support
 
-Jupyter notebooks hosted in this repository can be used in the cloud via Binder.
-This does not require you to have anything installed and no files will be
-created on your machine. To access Binder, use this
-[link](https://mybinder.org/v2/gh/reproducible-micromagnetics/2015-skyrmionic-states-in-confined-nanostructures/master?filepath=index.ipynb).
-Different browsers may give different results: Chrome and Firefox are worth
-trying.
+The key statement of the paper is that skyrmions are stable confirmations in confined geometries such as flat cylinders, even without crystal anisotropy and without applied fields. A central result of the work is figure 2 which shows for which applied field and which cylinder diametre a skyrmion is obtained as the lowest energy configuration and for which fields.
 
-## Support
+The production of figure 2 required to run many simulations, starting from different initial configurations for the magnetisation, minimising the system energy for each configuration, identify the resulting configuration with the lowest energy, and putting together a phase diagram that classifies the final configuration. 
 
-If you require support or have any questions, you are welcome to raise an issue
-in our [ubermag/help](https://github.com/ubermag/help) repository.
+The following notebook demonstrates how this calculation can be done for 2 points in the phase plane.
+
+- [View the notebook statically: figure-02-ground-state.ipynb](figure-02-ground-state.ipynb)
+- [Interactively execute the notebook using Binder](https://mybinder.org/v2/gh/reproducible-micromagnetics/2015-skyrmionic-states-in-confined-nanostructures/master?filepath=figure-02-ground-state.ipynb)
 
 ## License
 
